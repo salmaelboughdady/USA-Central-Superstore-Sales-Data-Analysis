@@ -2,23 +2,24 @@ I analyzed the data using **Excel Pivot Tables** and created an interactive dash
 
 ## Dashboard Features
 - Total **annual** sales (2013-2016).
-- Total sales by **product**.
-- Total sales by **state**.
-- Sales percentage by **product category**.
-- Key Performance Indicators (KPIs): Total Sales, Average Sales, No of Orders.
+- Total Sales by **Category**
+- Total sales by **Product**.
+- Total sales by **State**.
+- Sales percentage by **Customer Segment**.
+- Key Performance Indicators (KPIs): Total Sales, Average Sales, No of Orders, Total Quantity.
 
 ## Key Analytical Insights
-- A significant increase in sales between **2014** and **2015** (from approximately $102,874 to $147,429).
-- The **Consumer Segment** contributes to more than half of the total sales.
-- There is a notable balance in sales distribution across the three product categories (Technology **34%**, Furniture **33%**, and Office Supplies **33%**).
-- **Chairs** and **Phones** achieved the highest sales compared to other products.
-- The highest sales were recorded in **Texas**.
-
+- Total Sales achieved a significant increase between **2014** and **2015** (from **$102,874** to **$147,429**).
+- **Technology** category leads the pack in total sales value **($170,416)**.
+- The **Consumer** segment accounts for exactly 50% of total sales.
+- **Chairs** and **Phones** are the top-performing products.
+- **Texas** is the top-performing state followed by **Illinois** and **Michigan**
 ## Dashboard
-<img width="921" height="477" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/fa07c5d1-c74d-4209-996d-ca1bdaa83437" />
+<img width="1039" height="495" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/850a850a-3b9a-4869-be1f-086ccaa9444d" />
 
 ## Pivot Tables
-<img width="895" height="401" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/3091d65b-56da-4d1b-b935-df86e5328ca8" />
+<img width="1334" height="499" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/522b3d0c-0f05-417b-b9c1-b0f4ebf3bf6d" />
+
 
 
 
